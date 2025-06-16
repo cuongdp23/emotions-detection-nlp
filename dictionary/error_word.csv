@@ -1,0 +1,627 @@
+incorrect_Word,correct_Word
+ áp đặp, áp đặt 
+ bải tập, bài tập 
+ bào giảng, bài giảng 
+ bào tập, bài tập 
+ bỗ trợ, bổ trợ 
+ bổ xung, bổ sung 
+ buốn ngủ, buồn ngủ 
+ cận kẽ, cặn kẽ 
+ có lẻ, có lẽ 
+ cọc lốc, cộc lốc 
+ cơ sơ, cơ sở 
+ chậm trể, chậm trễ 
+ chích xác, chính xác 
+ dễ giểu, dễ hiểu 
+ dề hiểu, dễ hiểu 
+ dễ hiêu, dễ hiểu 
+ dễ hiều, dễ hiểu 
+ dễ hiễu, dễ hiểu 
+ dễ hiệu, dễ hiểu 
+ dế hiểu, dễ hiểu 
+ dể tiếp thu, dễ tiếp thu 
+ dể tiếp, dễ tiếp 
+ dể, dễ 
+ diễu hiểu, dễ hiểu 
+ đảm bào, đảm bảo 
+ điểu kiện, điều kiện 
+ đỗ lỗi, đổ lỗi 
+ gán kết, gắn kết 
+ gần gủi, gần gũi 
+ gẫn gũi, gần gũi 
+ giáp đáp, giải đáp 
+ giúp đở, giúp đỡ 
+ hài hòng, hài lòng 
+ hiệu quá, hiệu quả 
+ hỗi trợ, hỗ trợ 
+ hưng thú, hứng thú 
+ hường dẫn, hướng dẫn 
+ kiến thúc, kiến thức 
+ khắc khe, khắt khe 
+ khôg, không 
+ không kiệp, không kịp 
+ lang mang, lan man 
+ loàng ngoằng, loằng ngoằng 
+ luôn cóc, luôn có 
+ niền vui, niềm vui 
+ ngiêm, nghiêm 
+ ngủ gục, ngủ gật 
+ nhác nhở, nhắc nhở 
+ nhannh, nhanh 
+ nhiết tình, nhiệt tình 
+ nhiệt thình, nhiệt tình 
+ phà trò, pha trò 
+ phụ vụ, phục vụ 
+ phục vu, phục vụ 
+ quoa loa, qua loa 
+ tinh huống, tình huống 
+ thảo thuận, thảo luận 
+ thẳng thắng, thẳng thắn 
+ thân thiên, thân thiện 
+ thận thiện, thân thiện 
+ thân thiệt, thân thiện 
+ thết bị, thiết bị 
+ thuc tiễn, thực tiễn 
+ trôi trải, trôi chảy 
+ văn hoá, văn hóa 
+ vủi vẻ, vui vẻ 
+ xứng dáng, xứng đáng 
+ 0 có gì, không có gì 
+ 0 hề , không hề 
+ 0 hiểu, không hiểu 
+ 0 nát, không nát 
+ 0 quen, không quen 
+ 0 thích, không thích 
+ 0 ưa, không ưa 
+ 0đ , 0 điểm 
+ 0ff , off 
+ 0k , ok 
+ 10d , 10 điểm 
+ 10đ , 10 điểm 
+ 10điểm, 10 điểm 
+ 1đ , 1 điểm 
+ 1đ cộng, 1 điểm cộng 
+ 1đ cộng,1 điểm cộng 
+ 1điểm trừ,1 điểm trừ 
+ 1điểm, 1 điểm 
+ 1sao, 1 sao 
+ 2đ , 2 điểm 
+ 2điểm, 2 điểm 
+ 2sao, 2 sao 
+ 4sao, 4 sao 
+ 5 sao, 5 sao 
+ 5aao, 5 sao 
+ 5aao, 5sao 
+ 5đ , 5 điểm 
+ 5sao, 5 sao 
+ 5star, 5 star 
+ 6đ , 6 điểm 
+ 7d , 7 điểm 
+ 7đ , 7 điểm 
+ 8d , 8 điểm 
+ 8đ , 8 điểm 
+ 9d , 9 điểm 
+ 9đ , 9 điểm 
+ ác đi, át đi 
+ ác hết, át hết 
+ ác luôn, át luôn 
+ ác mất, át mất 
+ ác mùi, át mùi 
+ ác vị, át vị 
+ ai cung bit, ai cũng biết 
+ akay, ok 
+ amazing, amazing 
+ an la ghien, ăn là ghiền 
+ an no , ăn no 
+ an tiep, ăn tiếp 
+ an toạ , an tọa 
+ an tượng, ấn tượng 
+ anti, anti 
+ angrily, angry 
+ ao ao, ào ào 
+ ao loi, ảo lòi 
+ áp dụg, áp dụng 
+ ap dung, áp dụng 
+ ap dụng, áp dụng 
+ áp đụng, áp dụng 
+ ap lưc, áp lực 
+ ass, ass 
+ at bơt, át bớt 
+ át đc, át được 
+ at hêt, át hết 
+ át i hết, át đi hết 
+ at mui, át mùi 
+ at tiêng, át tiếng 
+ ẳm bồng bế , ẵm bồng bế 
+ ẳm bồng, ẵm bồng 
+ ắm đâu, ấm đầu 
+ ẳm lại, ẵm lại 
+ ẳm lên, ẵm lên 
+ ẳm qua , ẵm qua 
+ ẳm xuống, ẵm xuống 
+ ăn bành bụng, ăn bành bụng 
+ ăn bẹt nhè, ăn bét nhè 
+ ăn cưngs, ăn cứng 
+ ăn mai, ăn mãi 
+ ăn nhằm, ăn nhầm 
+ ăn nhìu, ăn nhiều 
+ ăn tiêp, ăn tiếp 
+ ănngon, ăn ngon 
+ ặng mùi, nặng mùi 
+ ắt hết, át hết 
+ ấ n tương, ấn tượng 
+ âm 100đ , âm 100 điểm 
+ ẫm 2 bé , ẵm 2 bé 
+ ấm ám, ấm áp 
+ âm ap lalung, ấm áp lạ lùng 
+ âm ap, ấm áp 
+ âm áp, ấm áp 
+ âm âm, âm ấm 
+ ầm âm, ầm ầm 
+ ấm ấp, ấm áp 
+ ẫm con, ẵm con 
+ ấm cúg, ấm cúng 
+ ấm cúm, ấm cúng 
+ âm cunng, ấm cúng 
+ âm cung, ấm cúng 
+ âm cúng, ấm cúng 
+ ấm cung, ấm cúng 
+ ấm cùng, ấm cúng 
+ ấm cũng, ấm cúng 
+ ấm cúq, ấm cúng 
+ âm I , ầm ĩ 
+ âm long, ấm lòng 
+ ẩm móc, ẩm mốc 
+ âm môc, ẩm mốc 
+ ẫm mốc, ẩm mốc 
+ ấm mốc, ẩm mốc 
+ âm nong, ấm nóng 
+ ậm qf, ậm ờ 
+ âm tương, ấn tượng 
+ ấm tượng, ấn tượng 
+ âm thâm, âm thầm 
+ âm thâp, ẩm thấp 
+ âm thấp, ẩm thấp 
+ ấm úng, ấp úng 
+ âm ương, ẩm ương 
+ ầm xún , ẵm xuống 
+ ầm xuống, ẵm xuống 
+ ầm ỹ , ầm ĩ 
+ âm yếm, âu yếm 
+ ân cầm, ân cần 
+ ân cân, ân cần 
+ ẩn giật, ẩn giật 
+ ân hiên, ẩn hiện 
+ ấn tươg, ấn tượng 
+ ấn tượg, ấn tượng 
+ ân tương tôt, ấn tượng tốt 
+ ân tương, ấn tượng 
+ ân tượng, ấn tượng 
+ ẩn tượng, ấn tượng 
+ ấn tương, ấn tượng 
+ ấn tựơng, ấn tượng 
+ ấn thượng, ấn tượng 
+ ând tượng, ấn tượng 
+ âns tương, ấn tượng 
+ ấp a ấp úm, ấp a ấp úng 
+ ế ấm, ế ẩm 
+ hông có dzui, không có vui 
+ iêu, yêu 
+ im ăng, im ắng 
+ it cay, ít cay 
+ it khi, ít khi 
+ k , không 
+ ko , không 
+ m át mát, mát mát 
+ on ao , ồn ào 
+ ồm ào , ồn ào 
+ ôn ao , ồn ào 
+ ôn ào , ồn ào 
+ ồn ao , ồn ào 
+ ồn áo , ồn ào 
+ ổn ào , ồn ào 
+ ỗn ào , ồn ào 
+ th ay đổi, thay đổi 
+ th ật tiếc, thật tiếc 
+ ung ho , ủng hộ 
+0 bik, không biết 
+á__face_with_tears_of_joy_, _face_with_tears_of_joy_ 
+a__grinning_face_with_smiling_eyes_, _grinning_face_with_smiling_eyes_ 
+á__grinning_face_with_smiling_eyes_, _grinning_face_with_smiling_eyes_ 
+á__red_heart_, _red_heart_ 
+á__relieved_face_, _relieved_face_ 
+ahihi__face_with_tears_of_joy_, _face_with_tears_of_joy_ 
+awesome,awesome 
+awsome, awesome 
+ăn__beaming_face_with_smiling_eyes_, _beaming_face_with_smiling_eyes_ 
+ăn__face_savoring_food_, _face_savoring_food_ 
+ăn__face_with_tears_of_joy_, _face_with_tears_of_joy_ 
+ăn__green_heart_, _green_heart_ 
+ăn__loudly_crying_face_, _loudly_crying_face_ 
+ăn__red_heart_, _red_heart_ 
+ăn__smiling_face_with_smiling_eyes_, _smiling_face_with_smiling_eyes_ 
+ăn__thumbs_up_, _thumbs_up_ 
+ăn__unamused_face_, _unamused_face_ 
+b ắt mắt, bắt mắt 
+b ắt, bắt 
+bá chái, bá cháy 
+bá chay, bá cháy 
+bá chấy, bá cháy 
+bad, bad 
+banh âm âm, bánh âm ấm 
+bánh dỡ , bánh dở 
+banh kem dep, bánh kem đẹp 
+banh kem doc va la , bánh kem độc và lạ 
+banh kem la , bánh kem lạ 
+banh mơi, bánh mới 
+bánh__expressionless_face_, _expressionless_face_ 
+bánh__face_with_tears_of_joy_, _face_with_tears_of_joy_ 
+bánhk ngon, bánh không ngon 
+banhngon, bánh ngon 
+bao đep, bao đẹp 
+bao h , bao giờ 
+báo tử cá chiên, bao tử cá chiên 
+bao, bao 
+bao__beaming_face_with_smiling_eyes_, _beaming_face_with_smiling_eyes_ 
+bảotrong, bảo trọng 
+bat mat, bắt mắt 
+bat mắt, bắt mắt 
+bat ng , bắt người 
+bat ngo , bất ngờ 
+bay phà , bay phà 
+bắc ăn , bắt ăn 
+bặm trơn, bặm trợn 
+bắn súg, bắn súng 
+bắt bẽ , bắt bẻ 
+băt măt, bắt mắt 
+bẫn, bẩn 
+bất diệt, bất diệt 
+bất đắt dĩ , bất đắc dĩ 
+bất gờ , bất ngờ 
+bất hửu, bất hủ 
+bất hữu, bất hủ 
+bất lịch sư , bất lịch sự 
+bất lichj sự , bất lịch sự 
+bất ngơ , bất ngờ 
+bất tiệ , bất tiện 
+bất tiên, bất tiện 
+bđảm, bảo đảm 
+beauti, beauty 
+beo beo, beo béo 
+béo beo, beo béo 
+beo ngon, béo ngon 
+beo oi la beo, béo ơi là béo 
+béok , béo 
+bép ngậy, béo ngậy 
+bị bõ hoang, bị bỏ hoang 
+biệt vô âm tính, biệt vô âm tín 
+binh yên, bình yên 
+bọ chét, bọ chét 
+cám ơn, cảm ơn 
+cay vưa, cay vừa 
+come bac k, comeback 
+come back, comeback 
+con âm, còn ấm 
+con đâu, còn đâu 
+con them, còn thèm 
+cố g ắng, cố gắng 
+cung hay, cũng hay 
+cưc lâu, cực lâu 
+cưc tôt, cực tốt 
+ch ắc chắn, chắc chắn 
+ch ăng, chẳng 
+ch ẳng, chẳng 
+chả bá , chà bá 
+chat luong, chất lượng 
+chay qa chay lai, chạy qua chạy lại 
+chắc ần , chắc ăn 
+chăc, chắc 
+chân thanh, chân thành 
+chất lưogj, chất lượng 
+chât lương, chất lượng 
+chẹp bẹp, chèm bẹp 
+chét được, chết được 
+chĩ có , chỉ có 
+chu đao, chu đáo 
+chủ yêu, chủ yếu 
+chủ ýêu, chủ yếu 
+chua bat den, chưa bắt đèn 
+chuyên nghiêp, chuyên nghiệp 
+chưa biêt, chưa biết 
+chưa co , chưa có 
+chưa đươc, chưa được 
+chưa hết ngôp, chưa hết ngộp 
+chưa hêt, chưa hết 
+chưa noi, chưa nói 
+chưa thư, chưa thử 
+da beo, da béo 
+dày đ ặc, dày đặc 
+dc, được 
+deo vưa phai, dẻo vừa phải 
+dễ chiu, dễ chịu 
+dể thương, dễ thương 
+dêchiu, dễ chịu 
+dêtim, dễ tìm 
+dêthương, dễ thương 
+doc va la , độc và lạ 
+dong khach, đông khách 
+dữ ắm, dữ lắm 
+đ ày, đầy 
+đ ắt, đắt 
+đa dang, đa dạng 
+đảm bảm, đảm bảo 
+đạm chất, đậm chất 
+đăc biêt, đặc biệt 
+đặc sãn, đặc sản 
+đăc săc, đặc sắc 
+đặt biệt, đặc biệt 
+đâm âm, đầm ấm 
+đâm mui, đậm mùi 
+đây ăp, đầy ắp 
+đc, được 
+đep, đẹp 
+điễm cộng, điểm cộng 
+điêm trư , điểm trừ 
+đon gio , đón gió 
+đong cưa, đóng cửa 
+đôg khach, đông khách 
+đông qua , đông quá 
+đơ được, đỡ được 
+đơi hơi lâu, đợi hơi lâu 
+đơn gian, đơn giản 
+đuđây, đủ đầy 
+đung nghia, đúng nghĩa 
+đừn bao giờ quay lại, đừng bao giờ quay lại 
+đưng đơi, đứng đợi 
+đươc, được 
+gân gui, gần gũi 
+goi mon nay mang mon no , goi món này mang món nọ 
+gop y , góp y 
+giam gia , giảm giá 
+giamêm, giá mềm 
+gion, giòn 
+giới hăn, giới hạn 
+haha, hahaha 
+ham re , ham rẻ 
+hâp dân, hấp dẫn 
+hấp dẩn, hấp dẫn 
+hehe, hehe 
+hêt biêt, hết biết 
+hihi, hihi 
+hoà âm, hòa âm 
+hoan toan, hoàn toàn 
+hoàng tráng, hoành tráng 
+hông quay lại, không quay lại 
+hơi c ao , hơi cao 
+hơi cưng, hơi cứng 
+hơi đăng, hơi đắng 
+hơi lat, hơi lạt 
+hơi ngây, hơi ngấy 
+hơi nho , hơi nhỏ 
+hơi sơ , hơi sợ 
+hơp, hợp 
+huhu, huhu 
+huyên ao , huyền ảo 
+huyền áo , huyền ảo 
+kaka, kaka 
+kiên nhân, kiên nhẫn 
+kih nghiệm, kinh nghiệm 
+kkk, kkk 
+ko bai giờ, không bao giờ 
+ko hieu, không hiểu 
+kha được, khá được 
+khá nhõ , khá nhỏ 
+kha toi, khá tối 
+khá v ắng vẻ , khá vắng vẻ 
+khac nhau, khác nhau 
+khađăt, khá đắt 
+khađep, khá đẹp 
+khalađep, khá là đẹp 
+khangon, khá ngon 
+kharông, khá rộng 
+khó chiệu, khó chịu 
+khochiu, khó chịu 
+khođi , khó đi 
+khoi bay, khói bay 
+khong, không 
+khô g , không 
+không bao gio , không bao giờ 
+không bao giơ , không bao giờ 
+không bào giờ , không bao giờ 
+không băng, không bằng 
+không beo, không béo 
+không biet, không biết 
+không biêt, không biết 
+không bõ , không bỏ 
+không co , không có 
+không có giban , không có gì bàn 
+không có giđăc săc, không có gì đặc sắc 
+không có ngan , không có ngán 
+không còn ngây, không còn ngấy 
+không con, không còn 
+không đung, không đúng 
+không gian thoang, không gian thoáng 
+không hap, không hạp 
+không hê , không hề 
+không hềngon, không hề ngon 
+không hêt, không hết 
+không hiêu, không hiểu 
+không khổ danh, không hổ danh 
+không nc , không nói chuyện 
+không noi, không nói 
+không nôi, không nổi 
+không ngan, không ngán 
+không nhiêu, không nhiều 
+không nhưng lô , không những lỗ 
+không phải dơ , không phai dỡ 
+không phai, không phải 
+không re , không rẻ 
+không sach, không sạch 
+không tinh, không tính 
+không tôt, không tốt 
+không thâm, không thấm 
+không thấy nguôi, không thấy nguội 
+không thây, không thấy 
+không thểhiêu, không thể hiểu 
+không thơ , không thở 
+không trach, không trách 
+không vưa miêng, không vừa miệng 
+không, không 
+l ắm, lắm 
+lạc nhách, lạt nhách 
+lạc nhẽo, lạt nhẽo 
+lala, lạ lạ 
+lalung, lạ lùng 
+lam lơ , làm lơ 
+lamiêng, lạ miệng 
+lãng bãng, lảng vảng 
+lãng mạng, lãng mạn 
+lân at, lấn át 
+lâu chùi, lau chùi 
+lâu lăc, lâu lắc 
+lich sư , lịch sự 
+lich sự , lịch sự 
+lo bam dt, lo bấm điện thoại 
+lóng lanh, lóng lánh 
+lot bung, lót bụng 
+lơi dung, lợi dụng 
+lơn tiêng, lớn tiếng 
+lươi nâu, lười nấu 
+mat me , mát mẻ 
+măc qua , mắc quá 
+mât rôi, mất rồi 
+mê tit, mê tít 
+mêm, mềm 
+miễn ph 1i, miễn phí 
+muốn ăn nửa, muốn ăn nữa 
+mưa ầm âm, mưa ầm ầm 
+never never, never never 
+nên đâu tư, nên đầu tư 
+no bung gimeo, no bụng gì méo 
+noi nhanh, nói nhanh 
+nong âm, nóng ấm 
+nong nưc, nóng nực 
+ngap tran khoi, ngập tràn khói 
+nghỉ ăn rùi, nghỉ ăn rồi 
+nghingơi, nghỉ ngơi 
+ngon lăm, ngon lắm 
+ngon nh ất, ngon nhất 
+ngon toẹt, ngon tuyệt 
+ngon thân ki , ngon thần kỳ 
+ngon, ngon 
+ngot âm, ngọt ấm 
+nguội ngắc, nguội ngắt 
+nhadơ , nha dơ 
+nhanh nhen, nhanh nhẹn 
+nhao nhao, nháo nhào 
+nhenhang, nhẹ nhàng 
+nhiêt tinh, nhiệt tình 
+nhìu, nhiều 
+nhỏ ắm, nhỏ lắm 
+nhonhăn, nhỏ nhắn 
+nhonho , nho nhỏ 
+nhoven đương, nhỏ ven đường 
+như mong đơi, như mong đợi 
+nhưg, nhưng 
+nhưng ng , những người 
+ok, ok 
+okie,ok 
+pgải ngồi bẹp, phải ngồi bẹp 
+pvu kem, phục vụ kém 
+phai đợi, phải đợi 
+phãi, phải 
+phãn ánh, phản ánh 
+phàn nà , phàn nàn 
+phong phu , phong phú 
+phuc vụ , phục vụ 
+phuhơp, phù hợp 
+qá đông, quá đông 
+qua ồn ào , quá ồn ào 
+quađăt, quá đắt 
+qualâu, quá lâu 
+quay lai, quay lại 
+quóa, quá 
+r ất rộng, rất rộng 
+r ất, rất 
+rat ngon, rất ngon 
+rất beo, rất bèo 
+rất la đôc, rất là độc 
+rất lơn, rất lớn 
+rất mêm, rất mềm 
+rất ngôp, rất ngộp 
+rất thuờg,rất thường 
+rât, rất 
+riêng chât, riêng chất 
+rộng ãi, rộng rãi 
+rộng r ãi, rộng rãi 
+rông rai, rộng rãi 
+rứt là , rất là 
+s ang chảnh, sang chảnh 
+sản khoái, sảng khoái 
+sang sua , sáng sủa 
+sethư , sẽ thử 
+sì một cái, xì một cái 
+siêu dth,siêu dễ thương 
+siu hay, siêu hay 
+sori,sorry 
+sôi ngon,xôi ngon 
+sweet,sweet 
+tam biêt, tạm biệt 
+tăm tôi, tăm tối 
+tặng, tặng 
+tân nơi, tận nơi 
+tâp vao măt, tấp vào mặt 
+tất bạt, tất bật 
+tẻ bèo, rẻ bèo 
+tệ nhật, tệ nhất 
+tiêc lơi, tiếc lời 
+tiên nghi , tiện nghi 
+tinh tê , tinh tế 
+tothai đô , tỏ thái độ 
+tôt, tốt 
+tơi muôn, tới muộn 
+tụi bay, tụi bây 
+tum năm tum ba , tụm năm tụm ba 
+từ a toi z , từ a tới z 
+tươi mơi, tươi mới 
+tương nho , tưởng nhỏ 
+tương như , tưởng như 
+ty chut, tý chút 
+thắc m ắc, thắc mắc 
+thât sư , thật sự 
+thât vong, thất vọng 
+thây re , thấy rẽ 
+thấy rẽ chư không rẽ , thây rẽ chứ không rẽ 
+thich hơp, thích hợp 
+thích hơp, thích hợp 
+thích nhât, thích nhất 
+thich, thích 
+thiệt đẹp, thật đẹp 
+thiêu beo, thiếu béo 
+thiêu mon dư mon, thiếu món dư món 
+thoai mai, thoải mái 
+thơ ơ , thờ ơ 
+thường xuyeen, thường xuyên 
+trai nghiêm, trải nghiệm 
+trầm ầm, trầm dầm 
+trâm lăng, trầm lắng 
+v ắng teo , vắng teo 
+v ắng, vắng 
+vô cung băt măt, vô cùng bắt mắt 
+vô cung, vô cùng 
+vua beo, vừa béo 
+vui đua, vui đùa 
+vừa ắn, vừa ăn 
+vưa miêng, vừa miệng 
+xâm xi , xầm xì 
+xinh x ắn, xinh xắn 
+yên ăng, yên ắng 
+yên tinh, yên tĩnh 
+yển tĩnh, yên tĩnh 
+yêu, yêu 
+zã man, dã man 
+zễ thương, dễ thương 
+zui zẻ , vui vẽ 
+zui zẽ , vui vẽ 
+zữ zằn, dữ dằn 
+zzz, zzz 
